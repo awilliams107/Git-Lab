@@ -5,6 +5,7 @@ from git_lab import (
     is_palindrome,
     calculate_triangle_area,
     is_prime,
+    add_numbers
 )
 import math
 
